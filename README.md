@@ -1,5 +1,11 @@
 # Filtering Analysis Tool (ابزار تحلیل شبکه برای شناسایی فیلترینگ)
-
+<div align="center">
+  <br><br>
+  <a href="https://t.me/NullError_ir" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram" alt="Telegram" />
+  </a>
+</div>
+<br>
  یک ابزار ساده و کارآمد برای تحلیل و فیلتر کردن بسته‌های شبکه است که با زبان Rust توسعه یافته است. هدف اصلی این ابزار، بررسی ترافیک شبکه، شناسایی پروتکل‌های مختلف و استخراج اطلاعات کلیدی مانند نام سرور (SNI) از اتصالات TLS/HTTPS و همچنین شناسایی ترافیک مربوط به پروتکل‌های مدرن مانند HTTP/2، HTTP/3، QUIC و DNS over HTTPS/QUIC (DoH/DoQ) است.
 
 
